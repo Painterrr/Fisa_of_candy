@@ -40,3 +40,6 @@ Test tool : jmeter
 1. 비밀번호 변경
 2. 일정 시간 후 전체조회 가능
 3. 회원가입, 로그인
+   
+# 📌 프로토타입 링크
+https://ovenapp.io/view/xZPu5S68HLVWmIoTlr3lclqXS8v1rYQj/
