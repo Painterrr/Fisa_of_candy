@@ -1,5 +1,7 @@
 package domain.model;
 
+import javax.persistence.Id;
+
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -13,6 +15,7 @@ import lombok.ToString;
 @ToString
 public class User {
 
+	@Id
 	private long id;
 	private String name;
 	private String pw;
